@@ -3,20 +3,8 @@
 # Título 
 
 Ou, caso queira colocar ele centralizado, você pode utilizar tags do HTML que funcionam normalmente, dessa forma:
-<h1 align="center"> Seu título aqui </h1>
-Obs: Feito isso, caso queira, você pode fazer uma capa ou logo do projeto para colocar após o título.
+<h1 align="center"> DevLinks </h1>
 
-
-📌 Badges:
-Seus objetivos são indicar o estado atual do projeto, licença (caso tenha), versões, dependências, testes, dentre outros. Caso queira fazer suas badges, você pode utilizar o Shields.io, ele fornece na página principal diversos exemplos de Badges e, além disso, nele você pode colar o link do seu repositório do GitHub na caixa de texto inicial, assim automaticamente ele irá sugerir algumas Badges para você utilizar no seu projeto, fornecendo o link da Badge para copiar e colar no seu README.
-
-Exemplo:
-
-status
-
-Caso queira deixar centralizado, pode utilizar a tag align do HTML também, dessa forma:
-
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
 📌 Índice:
 O GitHub gera automaticamente um índice para arquivos README, tendo como base os títulos de seção. Para visualizá-lo, selecione o ícone de menu no canto superior esquerdo do arquivo. É uma ferramenta excelente para navegar pelo documento, pois redireciona o usuário para o tópico selecionado. Entretanto, caso você tenha interesse em fazer seu próprio índice para ser visualizado no arquivo, também é possível fazer em Markdown. Exemplo:
