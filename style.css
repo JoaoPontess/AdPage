@@ -7,7 +7,7 @@ body {
 
 #hero {
    width: 592px; 
-   margin: 0 auto 72px;
+   margin: -72px auto 72px;
 }
 
 #hero img {
@@ -33,6 +33,7 @@ span, a {
 
 p, #footer {
    color: #7d7987; 
+
    font-size: 14px;
    line-height: 28px;
 }
@@ -49,4 +50,10 @@ p, #footer {
     margin: 0 auto 8px;
 
     border: 1px solid #eceff2;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
 }
