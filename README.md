@@ -1,28 +1,4 @@
 ![Cover](https://github.com/jhzinm/Projeto1/assets/150977621/7ef676ad-bf13-4251-bc14-b6d337acf247)
-Como criar e personalizar o Readme dos seus projetos
-😉 Neste artigo você aprenderá como personalizar o readme dos seus projetos no github.
-
-Mais o que seria README (ou leia-me)? Bem, é um arquivo com extensão .md, ou seja ele é escrito em Markdown Syntax que é uma sintaxe usada para padronizar e facilitar a formatação de texto na web.
-
-💡 Porque é importante?
-Bem, depois de desenvolver seu projeto e subir no github você vai documentar o seu trabalho para que quem visite seu repositório saiba do que se trata. E podemos fazer isso por meio do README, que é o primeiro arquivo a ser visto, ou seja, é a porta de entrada para o seu projeto!
-
-🚀 Além disso, algumas pessoas utilizam o perfil GitHub como portfólio, se esse for o seu caso, é interessante apostar em arquivos README para deixar seus projetos mais atrativos até mesmo para recrutadores.
-
-Alguns exemplos do que ter no README
-Título e Imagem de capa;
-Badges;
-Índice;
-Descrição do Projeto;
-Status do Projeto;
-Funcionalidades e Demonstração da Aplicação;
-Acesso ao Projeto;
-Tecnologias utilizadas;
-Pessoas Contribuidoras;
-Pessoas Desenvolvedoras do Projeto;
-Licença.
-📌 Título e Imagem de capa:
-Você pode colocá-lo dessa maneira:
 
 # Título 
 
@@ -45,79 +21,29 @@ Caso queira deixar centralizado, pode utilizar a tag align do HTML também, dess
 📌 Índice:
 O GitHub gera automaticamente um índice para arquivos README, tendo como base os títulos de seção. Para visualizá-lo, selecione o ícone de menu no canto superior esquerdo do arquivo. É uma ferramenta excelente para navegar pelo documento, pois redireciona o usuário para o tópico selecionado. Entretanto, caso você tenha interesse em fazer seu próprio índice para ser visualizado no arquivo, também é possível fazer em Markdown. Exemplo:
 
-## Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)* [Conclusão](#conclusão)
+
 
 📌 Descrição do Projeto:
-Como é um objetivo do arquivo README descrever o projeto, é legal que você apresente logo após o título ou imagem de capa e/ou Badges caso tenha, uma breve explicação do seu projeto com seu objetivo principal.
-
-📌 Status do Projeto:
-Caso você opte por não utilizar Badges sobre o status do projeto, é interessante que você coloque essa informação no próprio texto mesmo. Exemplo:
-
-> :construction: Projeto em construção :construction:
-Caso queira centralizar:
-
-<h4 align="center">    
- :construction:  Projeto em construção  :construction:
-</h4>
-Nesse exemplo foi utilizado o emoji 🚧, mas você pode utilizar em qualquer lugar do arquivo, como antes dos subtítulos. Nesse Gist do Rafael Xavier de Souza, você pode encontrar uma variedade de emojis para utilizar no seu README e deixá-lo mais descontraído.
+O DevLinks é uma plataforma simples e personalizável para armazenar e compartilhar seus links pessoais em um único local. Inspirado pelo conceito de linktree, o DevLinks oferece uma maneira fácil e elegante de compartilhar suas redes sociais, projetos, portfólio e outras informações importantes com apenas um link.
 
 
 📌 Funcionalidades e Demonstração da Aplicação:
-Você pode listar as funcionalidades do seu projeto para facilitar o entendimento do usuário.
+¹ Adicione seus Links: Cadastre facilmente os links que deseja compartilhar, como suas redes sociais, GitHub, portfólio, blog, entre outros.
 
-Para isso, você pode fazer dessa maneira:
+² Personalização: Customize o visual do seu DevLinks para refletir sua identidade pessoal ou profissional. Escolha entre diferentes temas, ícones e layouts para criar uma página única.
 
-# :hammer: Funcionalidades do projeto
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
-Além disso, se for possível, é interessante apresentar as funcionalidades com um exemplo visual do projeto, como gif, imagens ou vídeo.
-
-Obs.: Lembrando que o procedimento para colocar gif é o mesmo adotado para imagens e você pode gravar gifs com gravadores de tela, como o Acethinker.
-
-
-📌 Acesso ao projeto:
-Caso o seu projeto esteja no ar com algum serviço de hospedagem, você pode disponibilizar o link para o mesmo. Caso contrário, você pode apostar em gifs e imagens, como citado anteriormente, bem como indicar como o usuário pode baixar o projeto, abrir e executar.
-
-Isso pode ser feito em Markdown:
-
-## 📁 Acesso ao projeto
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
-## 🛠️ Abrir e rodar o projeto
-**Apresente as instruções necessárias para abrir e executar o projeto**
+³ Acesso Simplificado: Compartilhe seu link DevLinks em biografias de redes sociais, assinaturas de e-mail ou qualquer outro lugar. Os visitantes terão acesso rápido e fácil a todos os seus links importantes.
 
 📌 Tecnologias utilizadas:
-Você também pode citar as tecnologias utilizadas no projeto, é uma ótima forma de demonstrar o que você anda estudando nesse mar que é a tecnologia.
+Css
+JavaScript
+HTML
+Git
+GitHub
+Figma
 
-readme
+Mayk Brito - Mentor do curso ao qual proporcionou a criação da linha de codigo para um DevLinks.
 
 
-Ou colocar os ícones das tecnologias utilizadas:
-
-docmreadme PNG
-
-
-📌 Pessoas Contribuidoras:
-Caso o seu projeto tenha contribuidores, é bacana adicionar eles no README. Um exemplo fantástico disso é o Docusaurus, onde se tem as fotos de todos os contribuidores e um link para outro documento markdown com recados importantes para quem deseja contribuir também.
-
-📌 Pessoas Desenvolvedoras do Projeto:
-E agora entra você! É importante que você coloque sua foto também, caso não goste de fotos, vale o user padrão do GitHub ou fazer seu próprio Octocat. Além disso, você pode linkar seu usuário, para caso algum usuário queira entrar em contato ou reportar algo.
-
-# Autores
+# Autor
  [<img src="https://avatars.githubusercontent.com/u/150977621?s=400&u=a0ecf6bbd0b9d6de4c3443c76315412338e19521&v=4" width=115><br><sub>João pontes</sub>](https://github.com/jhzinm) 
-| :---: | :---: | :---: |
-
-📌 Licença:
-Geralmente, os repositórios públicos no GitHub são utilizados para compartilhar softwares de código aberto. Porém, para que um repositório seja realmente de código aberto, ele precisa ter uma licença dando aos outros usuários a liberdade de usar, alterar e distribuir o software. Portanto, caso seu repositório tenha uma licença, é essencial que você coloque ela no seu README.
