@@ -1,10 +1,9 @@
-![Cover](https://github.com/jhzinm/Projeto1/assets/150977621/7ef676ad-bf13-4251-bc14-b6d337acf247)
 
 # Título 
 
-Ou, caso queira colocar ele centralizado, você pode utilizar tags do HTML que funcionam normalmente, dessa forma:
 <h1 align="center"> DevLinks </h1>
 
+![Cover](https://github.com/jhzinm/Projeto1/assets/150977621/7ef676ad-bf13-4251-bc14-b6d337acf247)
 
 📌 Índice:
 O GitHub gera automaticamente um índice para arquivos README, tendo como base os títulos de seção. Para visualizá-lo, selecione o ícone de menu no canto superior esquerdo do arquivo. É uma ferramenta excelente para navegar pelo documento, pois redireciona o usuário para o tópico selecionado. Entretanto, caso você tenha interesse em fazer seu próprio índice para ser visualizado no arquivo, também é possível fazer em Markdown. Exemplo:
