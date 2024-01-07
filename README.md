@@ -116,24 +116,8 @@ Caso o seu projeto tenha contribuidores, é bacana adicionar eles no README. Um 
 E agora entra você! É importante que você coloque sua foto também, caso não goste de fotos, vale o user padrão do GitHub ou fazer seu próprio Octocat. Além disso, você pode linkar seu usuário, para caso algum usuário queira entrar em contato ou reportar algo.
 
 # Autores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img src="https://avatars.githubusercontent.com/u/150977621?s=400&u=a0ecf6bbd0b9d6de4c3443c76315412338e19521&v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
 | :---: | :---: | :---: |
 
 📌 Licença:
 Geralmente, os repositórios públicos no GitHub são utilizados para compartilhar softwares de código aberto. Porém, para que um repositório seja realmente de código aberto, ele precisa ter uma licença dando aos outros usuários a liberdade de usar, alterar e distribuir o software. Portanto, caso seu repositório tenha uma licença, é essencial que você coloque ela no seu README.
-
-licenciareadme
-
-
-📝 Documentação e informação extra:
-https://gist.github.com/reginadiana/e044fe93ed81aa04a10361cb841c0409
-https://github.com/othneildrew/Best-README-Template
-https://www.alura.com.br/artigos/escrever-bom-readme
-https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
-🧰 Recursos úteis
-Você pode encontrar algumas dessas ideias na ferramenta README Creator, site simples que reúne alguns recursos úteis para criação de READMEs de projetos, assim como para perfis. Após preencher os campos adequados e explorar os recursos, ele gerará um README no formato HTML/MD que você poderá continuar editando e adaptando.
-
-Ferramentas extra
-https://readme.so/pt
-https://www.readme-templates.com/
-https://github.com/Ileriayo/markdown-badges
