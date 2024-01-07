@@ -15,6 +15,7 @@ O DevLinks é uma plataforma simples e personalizável para armazenar e comparti
 
 
 📌 Funcionalidades e Demonstração da Aplicação:
+
 ¹ Adicione seus Links: Cadastre facilmente os links que deseja compartilhar, como suas redes sociais, GitHub, portfólio, blog, entre outros.
 
 ² Personalização: Customize o visual do seu DevLinks para refletir sua identidade pessoal ou profissional. Escolha entre diferentes temas, ícones e layouts para criar uma página única.
