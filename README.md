@@ -116,7 +116,7 @@ Caso o seu projeto tenha contribuidores, é bacana adicionar eles no README. Um 
 E agora entra você! É importante que você coloque sua foto também, caso não goste de fotos, vale o user padrão do GitHub ou fazer seu próprio Octocat. Além disso, você pode linkar seu usuário, para caso algum usuário queira entrar em contato ou reportar algo.
 
 # Autores
-| [<img src="https://avatars.githubusercontent.com/u/150977621?s=400&u=a0ecf6bbd0b9d6de4c3443c76315412338e19521&v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
+ [<img src="https://avatars.githubusercontent.com/u/150977621?s=400&u=a0ecf6bbd0b9d6de4c3443c76315412338e19521&v=4" width=115><br><sub>João pontes</sub>](https://github.com/jhzinm) 
 | :---: | :---: | :---: |
 
 📌 Licença:
