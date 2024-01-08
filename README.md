@@ -1,7 +1,7 @@
 
 # Título 
 
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> AnnuncePage </h1>
 
 ![Screenshot_2](https://github.com/jhzinm/Projeto1/assets/150977621/337e0adc-6807-48c1-bcad-cae565264617)
 
