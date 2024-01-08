@@ -8,7 +8,7 @@
 
 
 📌 Descrição do Projeto:
-O WebPage é uma plataforma simples e personalizável para armazenar e compartilhar seus links pessoais e conteudos em um único local.
+O WebPage é uma plataforma simples e personalizável para uninciar e compartilhar dados de serviço em um único local.
 
 📌 Funcionalidades e Demonstração da Aplicação:
 
